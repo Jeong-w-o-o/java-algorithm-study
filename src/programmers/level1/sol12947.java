@@ -4,6 +4,7 @@ package programmers.level1;
  * [12947] 하샤드 수
  * https://programmers.co.kr/learn/courses/30/lessons/12947
  */
+
 public class sol12947 {
     public boolean solution(int x) {
 
