@@ -24,8 +24,7 @@ public class sol12910 {
         Collections.sort(arrList);
 
         if(arrList.size() == 0) {
-            answer = new int[1];
-            answer[0] = -1;
+            answer = new int[] {-1};
         }
 
         for(int i = 0; i < arrList.size(); i++) {
