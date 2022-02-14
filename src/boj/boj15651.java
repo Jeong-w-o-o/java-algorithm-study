@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 /**
- * [15651] N과 M (3)
+ * [15651] N과 M (3) t
  * https://www.acmicpc.net/problem/15651
  */
 
