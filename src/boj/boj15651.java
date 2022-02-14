@@ -3,8 +3,12 @@ package boj;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.sql.SQLOutput;
 import java.util.StringTokenizer;
+
+/**
+ * [15651] N과 M (3)
+ * https://www.acmicpc.net/problem/15651
+ */
 
 public class boj15651 {
 
